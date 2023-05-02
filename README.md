@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">A Full Stack Developer In CA.</h3>
 
-- 🔭 I’m currently working on **HD360**
+- 🔭 I’m currently working on **Atrify**
 
 - 🌱 I’m currently focusing on **React.js projects**
 

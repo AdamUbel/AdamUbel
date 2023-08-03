@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Adam!</h1>
 <h3 align="center">A Full Stack Developer based in CA.</h3>
 
-- 🔭 I’m currently working on **Atrify** & **Waifu Academy (E-Commerce)**
+- 🔭 I’m currently working on **Atrify** & **Waifu Academy (E-Commerce)** & **HD360 Equine**
 - 🌱 I’m currently focusing on **React.js projects**
 - 👯 I’m looking to collaborate on **BDO project**
 - 👨‍💻 Some of my projects are available at [https://adamubel.com](https://adamubel.com)

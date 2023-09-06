@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm Adam!</h1>
-<h3 align="center">A Full Stack Developer based in CA.</h3>
+![Header](./profile-header.png)
 
 - 🔭 I’m currently working on **Atrify** & **Waifu Academy (E-Commerce)** & **HD360 Equine**
 - 🌱 I’m currently focusing on **React.js projects**
@@ -40,4 +39,3 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AdamUbel&theme=tokyonight)](https://git.io/streak-stats)

@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently working on **Atrify** & **Waifu Academy (E-Commerce)** & **HD360 Equine**
+- 🔭 I’m currently working on **HD360 Equine** & **Waifu Academy (E-Commerce)** & **Hummel Links**
 - 🌱 I’m currently focusing on **React.js projects**
-- 👯 I’m looking to collaborate on **BDO project**
+- 👯 I’m looking to collaborate on **BDO project && KanCal** 
 - 👨‍💻 Some of my projects are available at [https://adamubel.com](https://adamubel.com)
 - 💬 Ask me about **JavaScript && MERN Stack**
 - 📫 How to reach me: Visit my website [adamubel.com/contact](https://adamubel.com/contact)

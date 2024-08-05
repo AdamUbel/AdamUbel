@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on *Voidborne Blade (GMS2 Project)** & **Waifu Academy (E-Commerce)**
+- 🔭 I’m currently working on **Voidborne Blade (GMS2 Project)** & **Waifu Academy (E-Commerce)**
 - 🌱 I’m currently focusing on **React.js projects**
 - 👯 I’m looking to collaborate on **BDO project && KanCal** 
 - 👨‍💻 Some of my projects are available at [https://adamubel.com](https://adamubel.com)
